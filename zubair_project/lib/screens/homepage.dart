@@ -7,7 +7,7 @@ class Homepage extends StatelessWidget {
     String name = 'vedant';
     return Scaffold(
       appBar: AppBar(
-        backgroundColor: Colors.deepOrange,
+        backgroundColor: Color.fromARGB(255, 103, 145, 236),
         title: Text(
           "Zubair Patel",
         ),
