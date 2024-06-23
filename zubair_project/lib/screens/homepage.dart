@@ -1,23 +1,23 @@
 import 'package:flutter/material.dart';
+import 'package:zubair_project/widgets/drawer.dart';
 
 class Homepage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
-    int days = 30;
-    String name = 'vedant';
+    // int days = 30;
+    // String name = 'vedant';
     return Scaffold(
       appBar: AppBar(
-        backgroundColor: Color.fromARGB(255, 103, 145, 236),
         title: Text(
-          "Zubair Patel",
+          "Catelog App",
         ),
       ),
       body: Container(
         child: Center(
-          child: Text('Welcome to $days days of flutter by $name'),
+          child: Text(''),
         ),
       ),
-      drawer: Drawer(),
+      drawer: MyDrawer(),
     );
   }
 }
