@@ -1,0 +1,60 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "iPhone 12",
+            "desc": "Apple iPhone 12th generation",
+            "price": 99999,
+            "color": "#33505a",
+            "image": "https://w7.pngwing.com/pngs/858/995/png-transparent-iphone-12.png"
+        },
+        {
+            "id": 2,
+            "name": "iPhone 13 Pro",
+            "desc": "Apple iPhone 13th generation",
+            "price": 99999,
+            "color": "#00ac51",
+            "image": "https://freebiehive.com/wp-content/uploads/2021/12/iphone-13-pro-graphite-png.jpg"
+        },
+        {
+            "id": 3,
+            "name": "One plus",
+            "desc": "One plus node",
+            "price": 99999,
+            "color": "#00ac51",
+            "image": "https://images.dailyobjects.com/marche/product-images/1103/dailyobjects-black-frosted-clear-case-cover-for-oneplus-nord-2-images/DailyObjects-Black-Frosted-Clear-Case-Cover-For-OnePlus-Nord-2-vw.png?tr=cm-pad_resize,v-2,w-412,h-490,dpr-2,q-60"
+        },
+        {
+            "id": 4,
+            "name": "Miwi Duopods A25",
+            "desc": "Duopods",
+            "price": 1500,
+            "color": "#00ac51",
+            "image": "https://www.mivi.in/cdn/shop/files/Blue_55958a23-7fb3-4c35-acbf-ed62d46b7228.png?v=1704186666&width=1445"
+        },
+        {
+            "id": 5,
+            "name": "ASUS Vivibook 15",
+            "desc": "Expore ASUS Vivobook 15 (X1502)",
+            "price": 27999,
+            "color": "#00ac51",
+            "image": "https://dlcdnwebimgs.asus.com/gain/5d3b0e30-c888-481c-8c1c-f45b65c5b560/"
+        },
+        {
+            "id": 6,
+            "name": "Apple Macbook Air",
+            "desc": "Apple Macbook Air MD711HN/B ",
+            "price": 97999,
+            "color": "#00ac51",
+            "image": "https://e7.pngegg.com/pngimages/918/793/png-clipart-macbook-pro-13-inch-macbook-air-laptop-macbook-gadget-electronics.png"
+        },
+        {
+            "id": 7,
+            "name": "Home Theatre",
+            "desc": "Home Theatre",
+            "price": 15000,
+            "color": "#00ac51",
+            "image": "https://e7.pngegg.com/pngimages/881/869/png-clipart-entreprise-nationale-de-l-industrie-electronique-home-theater-systems-barre-de-son-electronics-cinema-home-theatre.png"
+        }
+    ]
+}
