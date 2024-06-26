@@ -1,0 +1,44 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "iPhone 12",
+            "desc": "Apple iPhone 12th generation",
+            "price": 99999,
+            "color": "#33505a",
+            "image": "https://m.media-amazon.com/images/I/615+xw-8jFL.jpg"
+        },
+        {
+            "id": 2,
+            "name": "iPhone 13 Pro",
+            "desc": "Apple iPhone 13th generation",
+            "price": 99999,
+            "color": "#00ac51",
+            "image": "https://www.neolight.in/wp-content/uploads/2022/01/iphone-13-pro-gold.jpg"
+        },
+        {
+            "id": 3,
+            "name": "One plus",
+            "desc": "One plus node",
+            "price": 99999,
+            "color": "#00ac51",
+            "image": "https://suprememobiles.in/cdn/shop/products/Oneplus-Nord-CE-Lite-Available.gif?v=1681453799"
+        },
+        {
+            "id": 4,
+            "name": "Miwi Duopods A25",
+            "desc": "Duopods",
+            "price": 1500,
+            "color": "#00ac51",
+            "image": "https://images.meesho.com/images/products/95472840/5j9au_512.webp"
+        },
+        {
+            "id": 5,
+            "name": "ASUS Vivibook 15",
+            "desc": "Expore ASUS Vivobook 15 (X1502)",
+            "price": 27999,
+            "color": "#00ac51",
+            "image": "https://dlcdnwebimgs.asus.com/gain/5d3b0e30-c888-481c-8c1c-f45b65c5b560/"
+        }
+    ]
+}
