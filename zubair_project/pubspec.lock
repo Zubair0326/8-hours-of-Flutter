@@ -25,6 +25,7 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "2.11.0"
+<<<<<<< HEAD
   auto_size_text_pk:
     dependency: transitive
     description:
@@ -33,6 +34,8 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "3.0.0"
+=======
+>>>>>>> f6eb99edced2559dfbc148da16feacd5b205221e
   blurhash_dart:
     dependency: transitive
     description:
@@ -192,6 +195,7 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "4.2.0"
+<<<<<<< HEAD
   intl:
     dependency: transitive
     description:
@@ -200,6 +204,8 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "0.19.0"
+=======
+>>>>>>> f6eb99edced2559dfbc148da16feacd5b205221e
   json_annotation:
     dependency: transitive
     description:
@@ -413,6 +419,7 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "14.2.1"
+<<<<<<< HEAD
   vxstate:
     dependency: transitive
     description:
@@ -421,6 +428,8 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "2.3.0"
+=======
+>>>>>>> f6eb99edced2559dfbc148da16feacd5b205221e
   web:
     dependency: transitive
     description:

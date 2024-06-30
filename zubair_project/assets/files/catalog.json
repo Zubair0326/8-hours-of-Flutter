@@ -6,7 +6,11 @@
             "desc": "Apple iPhone 12th generation",
             "price": 99999,
             "color": "#33505a",
+<<<<<<< HEAD
             "image": "https://w7.pngwing.com/pngs/858/995/png-transparent-iphone-12.png"
+=======
+            "image": "https://m.media-amazon.com/images/I/615+xw-8jFL.jpg"
+>>>>>>> f6eb99edced2559dfbc148da16feacd5b205221e
         },
         {
             "id": 2,
@@ -14,7 +18,11 @@
             "desc": "Apple iPhone 13th generation",
             "price": 99999,
             "color": "#00ac51",
+<<<<<<< HEAD
             "image": "https://freebiehive.com/wp-content/uploads/2021/12/iphone-13-pro-graphite-png.jpg"
+=======
+            "image": "https://www.neolight.in/wp-content/uploads/2022/01/iphone-13-pro-gold.jpg"
+>>>>>>> f6eb99edced2559dfbc148da16feacd5b205221e
         },
         {
             "id": 3,
@@ -22,7 +30,11 @@
             "desc": "One plus node",
             "price": 99999,
             "color": "#00ac51",
+<<<<<<< HEAD
             "image": "https://images.dailyobjects.com/marche/product-images/1103/dailyobjects-black-frosted-clear-case-cover-for-oneplus-nord-2-images/DailyObjects-Black-Frosted-Clear-Case-Cover-For-OnePlus-Nord-2-vw.png?tr=cm-pad_resize,v-2,w-412,h-490,dpr-2,q-60"
+=======
+            "image": "https://suprememobiles.in/cdn/shop/products/Oneplus-Nord-CE-Lite-Available.gif?v=1681453799"
+>>>>>>> f6eb99edced2559dfbc148da16feacd5b205221e
         },
         {
             "id": 4,
@@ -30,7 +42,11 @@
             "desc": "Duopods",
             "price": 1500,
             "color": "#00ac51",
+<<<<<<< HEAD
             "image": "https://www.mivi.in/cdn/shop/files/Blue_55958a23-7fb3-4c35-acbf-ed62d46b7228.png?v=1704186666&width=1445"
+=======
+            "image": "https://images.meesho.com/images/products/95472840/5j9au_512.webp"
+>>>>>>> f6eb99edced2559dfbc148da16feacd5b205221e
         },
         {
             "id": 5,
@@ -39,6 +55,7 @@
             "price": 27999,
             "color": "#00ac51",
             "image": "https://dlcdnwebimgs.asus.com/gain/5d3b0e30-c888-481c-8c1c-f45b65c5b560/"
+<<<<<<< HEAD
         },
         {
             "id": 6,
@@ -55,6 +72,8 @@
             "price": 15000,
             "color": "#00ac51",
             "image": "https://e7.pngegg.com/pngimages/881/869/png-clipart-entreprise-nationale-de-l-industrie-electronique-home-theater-systems-barre-de-son-electronics-cinema-home-theatre.png"
+=======
+>>>>>>> f6eb99edced2559dfbc148da16feacd5b205221e
         }
     ]
 }
